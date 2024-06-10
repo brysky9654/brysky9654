@@ -1,12 +1,16 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Bryson+Kyle.++I+am+currently+working+as+Back-End+Developer)](https://git.io/typing-svg)
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+
 <div>
 <br/>
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 🔭 C#.NET | Backend Developer with 6+ years of professional experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🌱 Specialty in C#.NET, Proficient in back-end technologies like Node.js, Python, and PHP, as well as front-end technologies like React, Angular, and Vue.js<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with Azure and AWS also GCP<br/>
+- 😍 Developed some AI Apps and integrated with web and ChatGPT<br/>
+- 😉 Deep knowledge about machine learning, recommendation system, and reinforcement system</br>
 
 </div>
 
