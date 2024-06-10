@@ -12,40 +12,25 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 <p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My DWM configuration with everything pre-patched
-- [ChrisTitusTech/neovim](https://github.com/ChrisTitusTech/neovim) - My Neovim configuration
-- [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website) - My HUGO Website that I use for Videos, Blogs, and Redirects
-- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 ### 🌱 My latest projects
-
-- [ChrisTitusTech/acpilight](https://github.com/ChrisTitusTech/acpilight) - fixes broken xbacklight on new intels that uninstall xorg-server-video-intel packages which cause tearing
-- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - The Ultimate Linux Toolbox
-- [ChrisTitusTech/glazewm](https://github.com/ChrisTitusTech/glazewm) - Tiling Window Management for Microsoft Windows
-- [ChrisTitusTech/XIVLauncher-Config](https://github.com/ChrisTitusTech/XIVLauncher-Config) - My Personal config for FFXIV
-- [ChrisTitusTech/nord-background](https://github.com/ChrisTitusTech/nord-background) - Collection of Nord Backgrounds
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 ### 🔨 My recent Pull Requests
-
-- [Fix Numlock toggle](https://github.com/ChrisTitusTech/winutil/pull/2044) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Test 2024 04 20 2](https://github.com/ChrisTitusTech/winutil/pull/2030) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Fix ALL Program Installs](https://github.com/ChrisTitusTech/winutil/pull/1856) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Fix Unit Tests and Official Releases](https://github.com/ChrisTitusTech/winutil/pull/1854) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Test 2024 03 30](https://github.com/ChrisTitusTech/winutil/pull/1852) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 ### ⭐ Recent Stars
-
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile!
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 ### 📰 Recent Blog Posts
-
-- [My Problems With Linux](https://christitus.com/my-problems-with-linux/)
-- [Ultra BASH Prompt](https://christitus.com/mybash/)
-- [Lunduke: The Alex Jones of Linux](https://christitus.com/lunduke/)
-- [Atomic Desktops: Revolutionizing the Linux Experience](https://christitus.com/linux-atomic-desktops/)
-- [Hastebin](https://christitus.com/hastebin/)
+{{ range rss "https://christitus.com/index.xml" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/c/ChrisTitusTech>
   - Twitch    : <https://twitch.tv/christitustech>
