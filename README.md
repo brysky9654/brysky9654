@@ -17,7 +17,7 @@
 # Main Skills #
 
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/C#.svg" alt="android" height="100" title="Android reference"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/C#.svg" alt="C#" height="100" title="C# Development"></a>
 <a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
