@@ -1,22 +1,60 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+# Hello! 👋  Who am I?
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Bryson+Kyle,++An+ASP.NET+|+Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Bryson+Kyle,++and+I+am+a+Backend+Developer)](https://git.io/typing-svg)
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
-<br/>
 
-<div>
-- 🔭 C#.NET | Backend Developer with 6+ years of professional experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Specialty in C#.NET, Proficient in back-end technologies like Node.js, Python, and PHP, as well as front-end technologies like React, Angular, and Vue.js<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with Azure and AWS also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT<br/>
-- 😉 Deep knowledge about machine learning, recommendation system, and reinforcement system</br>
-</div>
+## My Experience
+<table><tr><td valign="top" width="100%">
+
+✔️ Backend Developer with 6+ years of experience developing web and mobile applications.
+
+✔️ Specialty in developing C#, ASP.NET, RESTful APIs, Database Management, and Cloud.
+
+✔️ Proficient in other back-end technologies like Node.js, Express.js, and Laravel.
+
+✔️ Deep understanding of front-end technologies like React, Vue.js, and Angular.
+
+✔️ Experienced in Version Control and Agile Methodologies based on strong communication.
+
+</td></tr></table>
+
+## My Personality
+<table><tr><td valign="top" width="100%">
+  
+✨ Building strong relationships with clients is my priority.
+  
+✨ I believe a successful partnership is rooted in mutual trust and respect.
+
+✨ As a team player, I thrive on collaborating with others to achieve common goals.
+
+✨ Outside of work, I'm passionate about football and other sports.
+
+✨ I love exploring new technologies and continually seek opportunities to expand my skillset.
+
+</td></tr></table>
+
+## Rapidfire  
+<table><tr><td valign="top" width="100%">
+
+🔧 I’m currently working on [Business Website Development](https://github.com/auwailun).
+  
+
+🛠 Now I’m building business websites using C#, ASP.NET Core 7, MSSQL, and Azure Services.
+  
+
+❓ Ask me about anything related to developing C#, ASP.NET, and other related technologies.
+  
+
+🎧 Fun fact: I'm always wearing my headphones, listening to Elsa's songs while working.
+
+
+</td></tr></table>  
 
 <br/>  
 
-# 💻 My favorite tools and technologies
+# 💻 My Favorite Tools and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -144,6 +182,8 @@
 </div>
 
 
+# 📚 My GitHub Review
+
 <p align="center">
 
 <!--
@@ -154,6 +194,17 @@
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brysky9654&theme=dark&hide_border=false"  width="49%" alt="@Goblin's github-readme-stats"/></a>
 
 </p>
+
+
+<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
+
+
+</br>
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{brysky9654}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
 <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
@@ -173,78 +224,11 @@
 
 </br>
 
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brysky9654&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  width="50%" alt="@Goblin's trophy stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brysky9654&theme=onestar&no-frame=true&column=3&row=2"  width="41%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brysky9654&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  width="54%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brysky9654&theme=onestar&no-frame=true&column=3&row=2"  width="44%" alt="@Goblin's trophy stats"/></a>
 
 <!--
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{brysky9654}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
--->
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-</br>
-
-# Welcome!
-  
-## My personal values and work ethic
-✨ Building strong relationships with clients is my priority.
-
-✨ I believe a successful partnership is rooted in mutual trust and respect.
-
-✨ I value open communication and will keep you updated on progress every step of the way.
-
-✨ As a team player, I thrive on collaborating with others to achieve common goals.
-
-✨ Outside of work, I'm passionate about football and other sports.
-
-✨ I love exploring new technologies and continually seek opportunities to expand my skill set.
-
-✨ I have a Specialty in ✔C#, ✔ASP.NET, ✔Azure, ✔Microsoft SQL Server
-
-✨ Preferred Backend Development using ✔PHP, ✔JavaScript, ✔Java, and ✔Python
-       
-✨ Preferred frameworks  ✔Laravel, ✔Node.js, ✔Express.js, ✔Django, ✔Spring
-              
-✨ Database options   ✔Microsoft SQL Server, ✔MongoDB, ✔MySQL, ✔PostgreSQL
-    
-✨ Experienced in Frontend frameworks  ✔TypeScript, ✔React.js, ✔Vue.js, ✔Angular        
-          
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
-         
-✨ Web hosting options    ✔ Azure service, ✔ AWS Services, ✔cPanel service, ✔GoDaddy
-        
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
-  
-
-- 🌱 I’m currently building business websites using ASP.NET Core 7, Microsoft SQL Server, and Azure Service.  
-  
-
-- ❓ Ask me about anything related to C#, ASP.NET, and other related technologies  
-  
-
-- 🎧 Fun fact: I'm always wearing my headphones, listening to Elsa's songs while working   
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-# Do you want to see my past work?
+# 📹 Do you want to see my past work?
 ## Trademarktoday Business Website
 <a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
@@ -260,3 +244,4 @@
 <a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
 ## Freelancer Account Creating Bot
 <a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
+-->
