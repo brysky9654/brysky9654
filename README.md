@@ -1,54 +1,50 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋  Who am I?
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Bryson+Kyle,++and+I+am+a+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Bryson+Kyle.++I+am+a+Backend+Developer)](https://git.io/typing-svg)
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 
 ## My Experience
 <table><tr><td valign="top" width="100%">
 
-✔️ Backend Developer with 6+ years of experience developing web and mobile applications.
-
-✔️ Specialty in developing C#, ASP.NET, RESTful APIs, Database Management, and Cloud.
-
-✔️ Proficient in other back-end technologies like Node.js, Express.js, and Laravel.
-
-✔️ Deep understanding of front-end technologies like React, Vue.js, and Angular.
-
-✔️ Experienced in Version Control and Agile Methodologies based on strong communication.
+  ✔️ Backend Developer with 6+ years of experience developing web and mobile applications.
+  
+  ✔️ Specialty in developing C#, ASP.NET, RESTful APIs, Database Management, and Cloud.
+  
+  ✔️ Proficient in other back-end technologies like Node.js, Express.js, and Laravel.
+  
+  ✔️ Deep understanding of front-end technologies like React, Vue.js, and Angular.
+  
+  ✔️ Experienced in Version Control and Agile Methodologies based on strong communication.
 
 </td></tr></table>
 
 ## My Personality
 <table><tr><td valign="top" width="100%">
   
-✨ Building strong relationships with clients is my priority.
+  ✨ Building strong relationships with clients is my priority.
+    
+  ✨ I believe a successful partnership is rooted in mutual trust and respect.
   
-✨ I believe a successful partnership is rooted in mutual trust and respect.
-
-✨ As a team player, I thrive on collaborating with others to achieve common goals.
-
-✨ Outside of work, I'm passionate about football and other sports.
-
-✨ I love exploring new technologies and continually seek opportunities to expand my skillset.
+  ✨ As a team player, I thrive on collaborating with others to achieve common goals.
+  
+  ✨ Outside of work, I'm passionate about football and other sports.
+  
+  ✨ I love exploring new technologies and continually seek opportunities to expand my skillset.
 
 </td></tr></table>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-🔧 I’m currently working on [Business Website Development](https://github.com/auwailun).
-  
-
-🛠 Now I’m building business websites using C#, ASP.NET Core 7, MSSQL, and Azure Services.
-  
-
-❓ Ask me about anything related to developing C#, ASP.NET, and other related technologies.
-  
-
-🎧 Fun fact: I'm always wearing my headphones, listening to Elsa's songs while working.
-
+  🔔 I’m currently working on [Business Website Development](https://github.com/brysky9654).
+    
+  🔔 Now I’m building business websites using C#, ASP.NET Core 7, MSSQL, and Azure Services.
+    
+  🔔 Ask me anything about developing C#, ASP.NET, and other related technologies.
+    
+  🔔 Funny Fact: I always wear my headphones and listen to Elsa's songs while working.
 
 </td></tr></table>  
 
@@ -185,27 +181,14 @@
 # 📚 My GitHub Review
 
 <p align="center">
+  <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{brysky9654}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-<!--
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
--->
+<br/>
 
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=brysky9654&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brysky9654&theme=dark&hide_border=false"  width="49%" alt="@Goblin's github-readme-stats"/></a>
-
-</p>
-
-
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
-
-</br>
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{brysky9654}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
 
 <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
 
