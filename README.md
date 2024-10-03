@@ -9,28 +9,28 @@
 <table><tr><td valign="top" width="100%">
 
   ✔️ Backend Developer with 6+ years of experience developing web and mobile applications.
-  
+
   ✔️ Specialty in developing C#, ASP.NET, RESTful APIs, Database Management, and Cloud.
-  
+
   ✔️ Proficient in other back-end technologies like Node.js, Express.js, and Laravel.
-  
+
   ✔️ Deep understanding of front-end technologies like React, Vue, and Angular.
-  
+
   ✔️ Experienced in Version Control and Agile Methodologies based on strong communication.
 
 </td></tr></table>
 
 ## My Personality
 <table><tr><td valign="top" width="100%">
-  
+
   ✨ Building strong relationships with clients is my priority.
-    
+
   ✨ I believe a successful partnership is rooted in mutual trust and respect.
-  
+
   ✨ As a team player, I thrive on collaborating with others to achieve common goals.
-  
+
   ✨ Outside work, I'm passionate about football, tennis, and other sports.
-  
+
   ✨ I love exploring new technologies and continually seek opportunities to expand my skill set.
 
 </td></tr></table>
@@ -39,11 +39,11 @@
 <table><tr><td valign="top" width="100%">
 
   🔔 Nowadays, I’m working on [Business Website Development](https://github.com/brysky9654).
-    
+
   🔔 I’m building business websites using C#, ASP.NET Core 8, MS SQL, and Azure Services.
-    
+
   🔔 Ask me anything about developing C#, ASP.NET, and other related technologies.
-    
+
   🔔 Funny Fact: I always wear my headphones and listen to Elsa's songs while working.
 
 </td></tr></table>  
@@ -93,7 +93,7 @@
       <br>AWS
     </td>
   </tr>
-  
+
   <tr>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
@@ -131,7 +131,7 @@
       <br>Webpack
     </td>
   </tr>
-  
+
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
