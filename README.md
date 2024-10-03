@@ -14,7 +14,7 @@
   
   ✔️ Proficient in other back-end technologies like Node.js, Express.js, and Laravel.
   
-  ✔️ Deep understanding of front-end technologies like React, Vue.js, and Angular.
+  ✔️ Deep understanding of front-end technologies like React, Vue, and Angular.
   
   ✔️ Experienced in Version Control and Agile Methodologies based on strong communication.
 
@@ -29,18 +29,18 @@
   
   ✨ As a team player, I thrive on collaborating with others to achieve common goals.
   
-  ✨ Outside of work, I'm passionate about football and other sports.
+  ✨ Outside the work, I'm passionate about football, tennis, and other sports.
   
-  ✨ I love exploring new technologies and continually seek opportunities to expand my skillset.
+  ✨ I love exploring new technologies and continually seek opportunities to expand my skill set.
 
 </td></tr></table>
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-  🔔 I’m currently working on [Business Website Development](https://github.com/brysky9654).
+  🔔 Nowadays, I’m working on [Business Website Development](https://github.com/brysky9654).
     
-  🔔 Now I’m building business websites using C#, ASP.NET Core 7, MSSQL, and Azure Services.
+  🔔 I’m building business websites using C#, ASP.NET Core 8, MS SQL, and Azure Services.
     
   🔔 Ask me anything about developing C#, ASP.NET, and other related technologies.
     
