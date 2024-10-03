@@ -35,7 +35,7 @@
 
 </td></tr></table>
 
-## Rapidfire  
+## Rapidfire
 <table><tr><td valign="top" width="100%">
 
   🔔 Nowadays, I’m working on [Business Website Development](https://github.com/brysky9654).
@@ -46,9 +46,9 @@
 
   🔔 Funny Fact: I always wear my headphones and listen to Elsa's songs while working.
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
 # 💻 My Favorite Tools and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -102,7 +102,7 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
