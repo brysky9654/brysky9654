@@ -29,7 +29,7 @@
   
   ✨ As a team player, I thrive on collaborating with others to achieve common goals.
   
-  ✨ Outside the work, I'm passionate about football, tennis, and other sports.
+  ✨ Outside work, I'm passionate about football, tennis, and other sports.
   
   ✨ I love exploring new technologies and continually seek opportunities to expand my skill set.
 
